@@ -30,7 +30,7 @@ The RPM package manager should resolve the dependencies automatically if they ar
 For example, on systems using DNF:
 
 ```bash
-sudo dnf install ./pdf-repair-*.rpm
+sudo dnf install ./pdf-repair-gui-1.0.0-2-rosa2021.1.noarch.rpm
 ```
 
 If your system uses a different package manager, use the appropriate command for installing a local RPM package.
